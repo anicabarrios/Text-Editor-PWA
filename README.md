@@ -8,6 +8,7 @@
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
+- [Questions](#questions)
 
 ## Overview
 
@@ -54,8 +55,10 @@ The following image shows the application's registered service worker:
 The following image shows the application's IndexedDB storage:
 ![IndexDB](./Assets/indexdb.png)
 
-The following image shows the application's cache storage:
+The following image shows the application's Cache storage:
 ![Cache](./Assets/cache.png)
+
+The web application is deployed on Render and feel free to explore: [Link to deployed application](https://text-editor-pwa-vsbv.onrender.com/)
 
 ## Contributing
 
@@ -70,3 +73,8 @@ Contributions to improve the text editor are welcome. Please follow these steps 
 ## License
 
 This project is licensed under the MIT License.
+
+## Questions 
+
+If you have any question, email me at  anicabarrios1@gmail.com<br/>
+Visit my Github page [anicabarrios](https://github.com/anicabarrios)
