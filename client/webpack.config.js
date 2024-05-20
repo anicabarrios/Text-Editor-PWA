@@ -23,8 +23,8 @@ module.exports = () => {
 
       // InjectManifest plugin for configuring the service worker with workbox
       new InjectManifest({
-        swSrc: './src-sw.js', // Source of your service worker file
-        swDest: 'service-worker.js', // Destination filename in output directory
+        swSrc: './src-sw.js', // Updated source of your service worker file
+        swDest: 'src-sw.js', // Updated destination filename in output directory
         exclude: [/\.map$/, /asset-manifest\.json$/] // Exclude maps and manifest to avoid caching them
       }),
 

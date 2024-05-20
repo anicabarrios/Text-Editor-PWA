@@ -47,16 +47,16 @@ This will launch the text editor in your default web browser. The app can be acc
 ## Screenshots
 The following image shows the application's manifest.json file:
 
-![manifest](./Assets/manifest.png)
+![manifest](./Assets/manifest1.png)
 
 The following image shows the application's registered service worker:
-![service-worker](./Assets/servicew.png)
+![service-worker](./Assets/service.png)
 
 The following image shows the application's IndexedDB storage:
-![IndexDB](./Assets/indexdb.png)
+![IndexDB](./Assets/index.png)
 
 The following image shows the application's Cache storage:
-![Cache](./Assets/cache.png)
+![Cache](./Assets/cachea.png)
 
 The web application is deployed on Render and feel free to explore: [Link to deployed application](https://text-editor-pwa-vsbv.onrender.com/)
 
